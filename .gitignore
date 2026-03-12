@@ -1,0 +1,38 @@
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
+
+# ---- PyCharm ----
+.idea/
+
+# ---- macOS ----
+.DS_Store
+
+# ---- Virtual envs ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Logs ----
+*.log
+
+# ---- Data / outputs  ----
+data/
+output/
+outputs/
+results/
+*.tif
+*.tiff
+*.npy
+*.npz
+*.pkl
